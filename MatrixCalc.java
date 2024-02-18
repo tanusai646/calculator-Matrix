@@ -8,7 +8,7 @@
 
 import java.util.*;
 import java.io.*;
-import java.math.*;
+//import java.math.*;
 
 /**
  * 電卓の「結果」として使う行列を表すクラス. 
